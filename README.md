@@ -6,3 +6,5 @@ Relatório gerencial de RH em PowerBI e integrado no banco de dados MySQL na nuv
 "Anexar" (Append) é usado para empilhar linhas de duas tabelas que têm a mesma estrutura de colunas (como um UNION em SQL). Usamos para combinar, por exemplo, vendas de Janeiro com vendas de Fevereiro, colocando as linhas umas embaixo das outras.
 
 Para enriquecer a tabela de localizações com o nome do departamento. Os dados estavam em colunas, em tabelas diferentes, então a única operação correta era Mesclar.
+
+Endpoint na AWS: dio.cz2c6084syr6.us-east-2.rds.amazonaws.com:3306
